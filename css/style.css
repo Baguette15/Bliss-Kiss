@@ -1,0 +1,13 @@
+.inline-block{
+    display: inline-block;
+       vertical-align: top;
+   }
+      nav{
+       width: 85%;
+       padding: 1%;
+       background-color: #373738;
+   }
+     header ul{
+       width: 20%;
+       margin-left: auto;
+   }
